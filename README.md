@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [My solution](https://qr-code-component-main-eta.vercel.app/)
+- Live Site URL: [My solution](https://aranuie.github.io/qr-code-component-main/)
 
 ### Built with
 
